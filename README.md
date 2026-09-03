@@ -1,18 +1,18 @@
-<!-- Header Hero -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Md.%20Shakhawat%20Hossain&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Engineer%20%7C%20Laravel%20%26%20SaaS%20Specialist&descSize=18&descAlignY=62" />
-</p>
+<div align="center">
+  <h1>Hi there, I'm Md. Shakhawat Hossain 👋</h1>
+  <h3>🚀 Software Engineer | Backend & Full-Stack Engineer | Laravel & SaaS Specialist</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Laravel+12+%7C+PHP+8.2%2B+%7C+MySQL+%7C+Scalable+Backend+Systems;Building+Multi-Tenant+SaaS%2C+Real-Time+Systems+%26+Enterprise+ERPs;Transactional+Workflows+%7C+JWT+SSO+%7C+WebSockets+%7C+Clean+Architecture;AI-Driven+Tooling+%7C+NLP+Research+%7C+Continuous+Learner" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=950&lines=PHP+8.2%2B+%7C+Laravel+12+%7C+MySQL+%7C+Scalable+Backend+Systems;Building+Multi-Tenant+SaaS%2C+Real-Time+WebSockets+%26+Enterprise+ERPs;Transactional+Workflows+%7C+JWT+SSO+%7C+Clean+Architecture;AI-Driven+Tooling+%7C+NLP+Research+%7C+Continuous+Learner" />
+  </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-shakhawat-hossain-0a8ba0352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shakhawat.sakib9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://shakhawatsakib9.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/ShakhawatSakib9"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/md-shakhawat-hossain-0a8ba0352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:shakhawat.sakib9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://shakhawatsakib9.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://github.com/ShakhawatSakib9"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
@@ -210,8 +210,4 @@ I am a **Software Engineer** specializing in **PHP, Laravel, MySQL, and Multi-Te
 
 <p align="center">
   <i>"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,2,2,5,30&height=100" />
 </p>
