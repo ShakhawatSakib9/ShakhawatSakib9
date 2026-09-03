@@ -3,7 +3,7 @@
   <h3>🚀 Software Engineer | Backend & Full-Stack Engineer | Laravel & SaaS Specialist</h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=950&lines=PHP+8.2%2B+%7C+Laravel+12+%7C+MySQL+%7C+Scalable+Backend+Systems;Building+Multi-Tenant+SaaS%2C+Real-Time+WebSockets+%26+Enterprise+ERPs;Transactional+Workflows+%7C+JWT+SSO+%7C+Clean+Architecture;AI-Driven+Tooling+%7C+NLP+Research+%7C+Continuous+Learner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=950&lines=PHP+8.2%2B+%7C+Laravel+12+%7C+MySQL+%7C+Scalable+Backend+Systems;Building+Multi-Tenant+SaaS%2C+Enterprise+ERPs+%26+Distributed+Systems;Transactional+Workflows+%7C+JWT+SSO+%7C+WebSockets+%7C+Clean+Architecture;AI-Driven+Tooling+%7C+NLP+Research+%7C+Continuous+Learner" />
   </p>
 
   <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Software Engineer** specializing in **PHP, Laravel, MySQL, and Multi-Tenant SaaS Architecture**. With 1.5+ years of hands-on engineering experience, I build high-reliability web applications, transactional workflows, stateful assessment engines, and real-time communication systems.
+I am a **Software Engineer** specializing in **PHP, Laravel, MySQL, and Multi-Tenant SaaS Architecture**. With 1.5+ years of hands-on production engineering experience, I design high-reliability web applications, transactional ERP workflows, distributed learning systems, and real-time platforms.
 
 ```
 ⚡ Engineering Focus Areas:
@@ -82,67 +82,26 @@ I am a **Software Engineer** specializing in **PHP, Laravel, MySQL, and Multi-Te
 
 ---
 
-### 🚀 Flagship Engineering Projects
+### 🚀 Featured Engineering & Flagship Projects
 
 <table>
   <thead>
     <tr>
-      <th>Project & Category</th>
-      <th>Key Engineering & Architecture Highlights</th>
-      <th>Tech Stack</th>
+      <th width="32%">Project & Domain</th>
+      <th width="48%">Key Engineering & Architecture Highlights</th>
+      <th width="20%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>👑 <a href="https://github.com/ShakhawatSakib9/House-Rent-System">PropEase — Real Estate SaaS</a></b><br/><i>Multi-Tenant SaaS Case Study</i></td>
-      <td>• Multi-tenant row-level scoping with <code>ProjectScope</code> traits<br/>• 4-level property hierarchy & automated lease state sync (<code>Vacant ↔ Occupied</code>)<br/>• Batch utility billing engine with period idempotency checks<br/>• Private document streaming proxy for NID/Passport protection</td>
-      <td><code>Laravel 12</code>, <code>MySQL</code>, <code>Global Scopes</code>, <code>Docker</code>, <code>Vercel</code></td>
-    </tr>
-    <tr>
-      <td><b>🥇 <a href="https://github.com/ShakhawatSakib9/Restaurant-Management-System">DineFlow — F&B SaaS ERP</a></b><br/><i>Transactional & Concurrency Case Study</i></td>
-      <td>• Multi-tenant shared DB with tenant resolution middleware & RBAC<br/>• Multi-station KDS routing & dynamic split POS billing<br/>• Recipe BOM inventory depletion with pessimistic locking (<code>FOR UPDATE</code>)<br/>• Day-end shift close & double-entry journal balance auditing</td>
+      <td><b>🥇 <a href="https://github.com/ShakhawatSakib9/Restaurant-Management-System">DineFlow — F&B SaaS ERP</a></b><br/><i>Multi-Tenant SaaS Case Study</i></td>
+      <td>• Multi-tenant shared DB with tenant isolation middleware & RBAC<br/>• Multi-station KDS routing & dynamic split POS billing<br/>• Recipe BOM inventory depletion with pessimistic locking (<code>FOR UPDATE</code>)<br/>• Day-end shift close & double-entry journal balance auditing</td>
       <td><code>Laravel 12</code>, <code>PHP 8.2</code>, <code>Pessimistic Locking</code>, <code>MySQL</code></td>
     </tr>
     <tr>
       <td><b>🏢 <a href="https://github.com/ShakhawatSakib9/Blended-Learning-Management-System">Eduvess — Corporate Training LMS</a></b><br/><i>Distributed BLS & Telemetry</i></td>
       <td>• Cross-application <b>JWT SSO Handshake</b> connecting LMS with Social Community<br/>• <code>getID3</code> media duration parsing & timestamp-triggered in-video quizzes<br/>• Synchronous virtual training via Server-to-Server Zoom API integration<br/>• Multi-parameter B2B corporate employee evaluation matrix</td>
       <td><code>Laravel</code>, <code>JWT SSO</code>, <code>Zoom API</code>, <code>AWS S3</code>, <code>bKash</code>, <code>SSLCommerz</code></td>
-    </tr>
-    <tr>
-      <td><b>🎓 <a href="https://github.com/ShakhawatSakib9/Coaching-Academy-Management-System">InnoLearn — Smart Coaching Platform</a></b><br/><i>Hybrid LMS & Online Exam Engine</i></td>
-      <td>• Stateful exam engine: incremental per-answer autosave & 30s heartbeat ping<br/>• Client-side tab-switch/blur telemetry for exam activity auditing<br/>• 4-tier curriculum builder & physical classroom routine conflict scheduler<br/>• Teacher revenue-sharing commission wallet & payout pipeline</td>
-      <td><code>Laravel 12</code>, <code>AJAX Autosave</code>, <code>Heartbeat</code>, <code>TailwindCSS</code></td>
-    </tr>
-    <tr>
-      <td><b>🏨 <a href="https://github.com/ShakhawatSakib9/Hotel-Booking-Management">Hotel Booking Operations Platform</a></b><br/><i>Real-Time Open-Source Application</i></td>
-      <td>• Mathematical date-range overlap availability algorithm<br/>• Bi-directional real-time customer support chat via <b>Pusher WebSockets</b><br/>• Historical add-on service pricing snapshotting in transactional bookings<br/>• Modular domain separation across Rooms, Tour Packages, and Car Rentals</td>
-      <td><code>Laravel 12</code>, <code>Pusher WebSockets</code>, <code>MySQL</code>, <code>Bootstrap 5</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<details>
-<summary><b>📂 View Additional Enterprise Case Studies & Open-Source Projects (Click to expand)</b></summary>
-<br/>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project & Category</th>
-      <th>Key Engineering & Architecture Highlights</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🛒 <a href="https://github.com/ShakhawatSakib9/Modern-Ecommerce-Platform">Modern E-Commerce Platform</a></b><br/><i>Full-Stack Open-Source App</i></td>
-      <td>• B2C storefront with cart session sync, promo codes, and multi-tier categories<br/>• 5-stage order state machine (<code>Pending → Processing → Shipped → Delivered</code>)<br/>• Interactive administrative business analytics powered by ApexCharts</td>
-      <td><code>Laravel 12</code>, <code>Blade</code>, <code>ApexCharts</code>, <code>Vite</code>, <code>MySQL</code></td>
-    </tr>
-    <tr>
-      <td><b>🎯 <a href="https://github.com/ShakhawatSakib9/Job-Tracker-HuntIQ-">Job-Tracker-HuntIQ-</a></b><br/><i>AI Browser Extension (Open-Source)</i></td>
-      <td>• Manifest V3 Service Worker + Content Script DOM extraction<br/>• 6-Factor weighted algorithmic JobScore formula (0–100)<br/>• Gemini AI auto-tailored Cover Letter & Resume generator<br/>• Client-side local persistence with complete offline data privacy</td>
-      <td><code>Manifest V3</code>, <code>JavaScript ES6+</code>, <code>Gemini API</code>, <code>Chrome Storage</code></td>
     </tr>
     <tr>
       <td><b>🏗️ <a href="https://github.com/ShakhawatSakib9/Constrcution_MIS">Enterprise Construction MIS</a></b><br/><i>Procurement ERP Case Study</i></td>
@@ -154,9 +113,33 @@ I am a **Software Engineer** specializing in **PHP, Laravel, MySQL, and Multi-Te
       <td>• 12+ clinical modules: OPD triage, IPD bed allocation, OT scheduling & Nursing<br/>• FEFO pharmacy inventory tracking with batch & expiry validation<br/>• Blood bank donor traceability and consolidated patient billing ledger</td>
       <td><code>Laravel</code>, <code>MySQL</code>, <code>FEFO Inventory</code>, <code>RBAC</code></td>
     </tr>
+    <tr>
+      <td><b>👑 <a href="https://github.com/ShakhawatSakib9/House-Rent-System">PropEase — Real Estate SaaS</a></b><br/><i>Multi-Tenant SaaS Case Study</i></td>
+      <td>• Multi-tenant row-level scoping with <code>ProjectScope</code> traits<br/>• 4-level property hierarchy & automated lease state sync (<code>Vacant ↔ Occupied</code>)<br/>• Batch utility billing engine with period idempotency checks<br/>• Private document streaming proxy for NID/Passport protection</td>
+      <td><code>Laravel 12</code>, <code>MySQL</code>, <code>Global Scopes</code>, <code>Docker</code>, <code>Vercel</code></td>
+    </tr>
+    <tr>
+      <td><b>🎯 <a href="https://github.com/ShakhawatSakib9/Job-Tracker-HuntIQ-">Job-Tracker-HuntIQ-</a></b><br/><i>AI Browser Tooling (Open-Source)</i></td>
+      <td>• Manifest V3 Service Worker + Content Script DOM extraction<br/>• 6-Factor weighted algorithmic JobScore formula (0–100)<br/>• Gemini AI auto-tailored Cover Letter & Resume generator<br/>• Client-side local persistence with complete offline data privacy</td>
+      <td><code>Manifest V3</code>, <code>JavaScript ES6+</code>, <code>Gemini API</code>, <code>Chrome Storage</code></td>
+    </tr>
+    <tr>
+      <td><b>🎓 <a href="https://github.com/ShakhawatSakib9/Coaching-Academy-Management-System">InnoLearn — Smart Coaching Platform</a></b><br/><i>Hybrid LMS & Online Exam Engine</i></td>
+      <td>• Stateful exam engine: incremental per-answer autosave & 30s heartbeat ping<br/>• Client-side tab-switch/blur telemetry for exam activity auditing<br/>• 4-tier curriculum builder & physical classroom routine conflict scheduler<br/>• Teacher revenue-sharing commission wallet & payout pipeline</td>
+      <td><code>Laravel 12</code>, <code>AJAX Autosave</code>, <code>Heartbeat</code>, <code>TailwindCSS</code></td>
+    </tr>
+    <tr>
+      <td><b>🏨 <a href="https://github.com/ShakhawatSakib9/Hotel-Booking-Management">Hotel Booking Operations Platform</a></b><br/><i>Real-Time Open-Source App</i></td>
+      <td>• Mathematical date-range overlap availability algorithm<br/>• Bi-directional real-time customer support chat via <b>Pusher WebSockets</b><br/>• Historical add-on service pricing snapshotting in transactional bookings<br/>• Modular domain separation across Rooms, Tour Packages, and Car Rentals</td>
+      <td><code>Laravel 12</code>, <code>Pusher WebSockets</code>, <code>MySQL</code>, <code>Bootstrap 5</code></td>
+    </tr>
+    <tr>
+      <td><b>🛒 <a href="https://github.com/ShakhawatSakib9/Modern-Ecommerce-Platform">Modern E-Commerce Platform</a></b><br/><i>Full-Stack Open-Source App</i></td>
+      <td>• B2C storefront with cart session sync, promo codes, and multi-tier categories<br/>• 5-stage order state machine (<code>Pending → Processing → Shipped → Delivered</code>)<br/>• Interactive administrative business analytics powered by ApexCharts</td>
+      <td><code>Laravel 12</code>, <code>Blade</code>, <code>ApexCharts</code>, <code>Vite</code>, <code>MySQL</code></td>
+    </tr>
   </tbody>
 </table>
-</details>
 
 ---
 
